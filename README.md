@@ -36,3 +36,11 @@ Benchmarks has been performed from B:
 ```shell
 ab -n 10000 -c 100 http://A:PORT/
 ```
+The interpreters used are:
+
+```shell
+ಠ_ಠ node -v
+v0.8.11
+ಠ_ಠ ruby -v
+ruby 1.9.3p194 (2012-04-20 revision 35410) [x86_64-linux]
+```

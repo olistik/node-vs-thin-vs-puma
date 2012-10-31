@@ -9,6 +9,7 @@ A simple benchmarking scenario involving Node.js, Thin and Puma.
 
 * Node: ~ 8228 reqs/sec
 * Thin: ~ 4244 reqs/sec
+* Thin2 (4 workers): ~ 10641 reqs/sec 
 * Puma: ~ 2232 reqs/sec
 
 ## Setup

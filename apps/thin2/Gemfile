@@ -1,0 +1,7 @@
+source :rubygems
+
+gem 'thin', "~>2.0.0.pre"
+
+gem 'rack'
+gem 'foreman'
+gem 'rack-fiber_pool'

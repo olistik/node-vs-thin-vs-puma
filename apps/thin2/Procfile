@@ -1,0 +1,1 @@
+web: bundle exec thin -E production -c thin.rb -p 3000

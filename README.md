@@ -3,6 +3,8 @@ node-vs-thin-vs-puma
 
 A simple benchmarking scenario involving Node.js, Thin and Puma.
 
+![alt text](https://lh5.googleusercontent.com/-EzqIUvYHC6M/UJEpcTB8w0I/AAAAAAAALHU/7nIKfPuYRs8/s691/node-vs-thin-vs-puma.jpg "Node.js vs Thin vs Puma")
+
 ## TL;DR
 
 * Node: ~ 8228 reqs/sec
